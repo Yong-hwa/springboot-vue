@@ -12,8 +12,8 @@ Springboot + Vue.js 프로젝트 기본 구성
 
 ### 명령어
 
-기본적으로 Gradle을 사용한다.
+기본적으로 Gradle을 사용
 
-    ```
-    ./gradlew bootrun
-    ```
+```
+./gradlew bootrun
+```
