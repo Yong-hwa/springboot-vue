@@ -6,15 +6,15 @@ Springboot + Vue.js 프로젝트 기본 구성
 
 ## 구성
 
-* SpringBoot 2.7.0
+* SpringBoot 2.7.4
 * Vue 2.6.14
-* Gradle 7.4.2
+* Gradle 7.5.1
 
 ### 빌드 명령어
 
 기본적으로 Gradle을 사용해서 빌드한다.
 
-```
+```zsh
 ./gradlew bootrun
 ```
 
@@ -22,6 +22,6 @@ Springboot + Vue.js 프로젝트 기본 구성
 
 gradlew 명령어를 통해 버전을 변경한다.
 
-```
-./gradlew wrapper --gradle-version 7.4.2
+```zsh
+./gradlew wrapper --gradle-version=7.5.1
 ```
