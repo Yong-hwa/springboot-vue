@@ -6,7 +6,7 @@ Springboot + Vue.js 프로젝트 기본 구성
 
 ## 구성
 
-* Spring Boot 2.7.7
+* Spring Boot 2.7.8
 * Vue.js 2.7.14
 * Gradle 7.6
 
